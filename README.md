@@ -8,6 +8,7 @@ Wing Editor 7.1.0.2
 
 ## Running the tests
 1. Here in this example where user picks the max number and user guesses to get the random number the computer has chosen.
+
 ![](https://github.com/amitvapal/guessingGame/blob/master/guessing-intro.png)
 
 
